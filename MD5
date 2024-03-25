@@ -1,0 +1,17 @@
+1ed2bc02666e39d47260e471b6c6cdfa *DESCRIPTION
+23c8539b064d7f979ce99222c66d1ccf *NAMESPACE
+1ddcc25a87d4b2becb9a24f2eb2ea57b *R/FitS.R
+e854078625a357ab9971ed30265f85f1 *R/FitS_linear.R
+97a117d01a6376bdd5583de34bfa73a4 *README
+24e819621baf8ff596d6803a05257fe1 *build/vignette.rds
+e6f1af266cb801e91f6fe6a9f3c4413b *data/cancerRates.RData
+5e270ae6034b339c2a13d20a5f7d2dec *inst/doc/Quick_Start.R
+adbb087eb32acecd69df2a9ef87bbb8c *inst/doc/Quick_Start.Rmd
+81a2a5be8c30a9fdb5044bee789c7619 *inst/doc/Quick_Start.html
+d456894c2c68ac71ba1ec487a0587441 *man/cancerRates.Rd
+87fd60ff9d923860626a53a76a981536 *man/fitS.Rd
+3c6c196a79f2f0b610f6a8833fd4fee2 *man/fitS_linear.Rd
+adbb087eb32acecd69df2a9ef87bbb8c *vignettes/Quick_Start.Rmd
+807338e0d5ab1e5be48c5ac7a5bedb09 *vignettes/breast_cancer_plot.jpeg
+a659f309b736b6f81ba012c67debd3af *vignettes/medicare.png
+7fdcaefbcf6ef87562747baa23c51dec *vignettes/nile.png
